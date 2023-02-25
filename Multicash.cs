@@ -223,7 +223,6 @@ public class Multicash : BloonsTD6Mod
         [HarmonyLib.HarmonyPrefix]
         public static bool Prefix(ref double c, ref Simulation.CashSource source)
         {
-            ModHelper.Msg<Multicash>(source);
             if (source == Simulation.CashSource.Normal && MultiplyCashFromPopsAndRounds)
             {
                 c = (c * Multiplier) * PopMultiplier;
