@@ -210,7 +210,7 @@ public class Multicash : BloonsTD6Mod
                 Multiplier = float.Parse(s.Replace(".",","));
 
             };
-            PopupScreen.instance.ShowSetNamePopup("Cash", "Multiply Cash by", mod, Multiplier.GetValue().ToString());
+            PopupScreen.instance.ShowSetNamePopup("Global Cash Multiplier", "Multiply by", mod, Multiplier.GetValue().ToString());
 
             displayOpen = true;
         }
