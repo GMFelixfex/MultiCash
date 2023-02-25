@@ -12,6 +12,6 @@ public static class ModHelperData
         "The Options allow you to tweak which sources are allowed and how much they are multiplied<br>" +
         "Allows decimals like 1.5 or 0.5 if you want to make things harder<br>";
 
-    public const string RepoOwner = "Felixfex"; // TODO add your github username hero, also in the download url in README.md
-    public const string RepoName = "Multicash"; // TODO add your repo name here, also in the download url in README.md
+    public const string RepoOwner = "Felixfex"; 
+    public const string RepoName = "Multicash";
 }
