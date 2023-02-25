@@ -9,9 +9,9 @@ Allows you to Multiply the Cash gained from ANY Source
 
 Press **F10** Set the Global Cash Multiplier
 
-Settings:
-    - The global Multiplier counts to any allowed Cash-Source
-    - The Options allow you to tweak which sources are allowed and how much they are multiplied
-    - Allows decimals like 1.5 or 0.5 if you want to make things harder >:D
+Settings:<br>
+    - The global Multiplier counts to any allowed Cash-Source<br>
+    - The Options allow you to tweak which sources are allowed and how much they are multiplied<br>
+    - Allows decimals like 1.5 or 0.5 if you want to make things harder >:D<br>
 
 [![Requires BTD6 Mod Helper](https://raw.githubusercontent.com/gurrenm3/BTD-Mod-Helper/master/banner.png)](https://github.com/gurrenm3/BTD-Mod-Helper#readme)
